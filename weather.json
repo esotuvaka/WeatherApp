@@ -1,0 +1,35 @@
+{
+	"coord": { "lon": 139, "lat": 35 },
+	"weather": [
+		{
+			"id": 804,
+			"main": "Clouds",
+			"description": "overcast clouds",
+			"icon": "04d"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 296.66,
+		"feels_like": 297.55,
+		"temp_min": 296.66,
+		"temp_max": 296.66,
+		"pressure": 1003,
+		"humidity": 95
+	},
+	"visibility": 160,
+	"wind": { "speed": 0.89, "deg": 205, "gust": 4.47 },
+	"clouds": { "all": 95 },
+	"dt": 1656101049,
+	"sys": {
+		"type": 2,
+		"id": 2019346,
+		"country": "JP",
+		"sunrise": 1656099075,
+		"sunset": 1656151299
+	},
+	"timezone": 32400,
+	"id": 1851632,
+	"name": "Dallas",
+	"cod": 200
+}
